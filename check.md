@@ -1,7 +1,7 @@
 # microbit-attimuitehoi-createai
 A guide to building an あっちむいてほい game with micro, using Create AI to recognize head movements.
 
-> このページを開く [https://skytree-1.github.io/microbit-attimuitehoi-createai/](https://skytree-1.github.io/microbit-attimuitehoi-createai/check.md)
+> このページを開く [https://skytree-1.github.io/microbit-attimuitehoi-createai/check.md](https://skytree-1.github.io/microbit-attimuitehoi-createai/check.md)
 
 ## 手順
 
