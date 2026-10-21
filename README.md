@@ -14,8 +14,11 @@ A guide to building an あっちむいてほい game with micro, using Create AI
    
     Cookieの設定では、サイトの動作に必要なものと、利用状況の分析などに使われるものがあります。今回は、Essential cookies（サイトの動作に必要なもの）を許可して、Analytics cookies（分析に使われるもの）を許可しない設定にします。何でも許可するのではなく、サイトの説明を確認して選びましょう。
 
-5. 
+4. **新しいプロジェクト** をクリックして、自由に名前をつけて **プロジェクト作成** をクリックします。
+
 ![テスト](images/sc01.png)
+
+5.
 
 ![テスト](images/sc02.png)
 
