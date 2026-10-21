@@ -5,7 +5,7 @@ A guide to building an あっちむいてほい game with micro, using Create AI
 
 ## 手順
 
-1. micro:bit Create AIに接続する
+1. micro:bit Create AIに接続します。
   [micro:bit Create AI](https://createai.microbit.org/)
 
 2. Cookie の設定画面が表示されるので、**（Manage cookies）** を選択します。
@@ -18,11 +18,15 @@ A guide to building an あっちむいてほい game with micro, using Create AI
 
 ![テスト](images/sc01.png)
 
-5.
+5.説明動画が表示されます。画面右下の **（接続）** をクリックして先に進みます。
 
 ![テスト](images/sc02.png)
 
+6.準備するものが表示されます。手元に全て揃っていることを確認して **次** をクリックして先に進みます。
+
 ![テスト](images/sc03.png)
+
+7.USBケーブルをmicro:bitにつなげます。
 
 ![テスト](images/sc04.png)
 
