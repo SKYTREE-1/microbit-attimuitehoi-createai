@@ -3,4 +3,4 @@ A guide to building an あっちむいてほい game with micro, using Create AI
 
 ## 
 
-![](images/sc01.png)
+![テスト](images/sc01.png)
