@@ -54,9 +54,13 @@ A guide to building an あっちむいてほい game with micro, using Create AI
 
 ![テスト](images/sc10.png)
 
+13. 「データ収集用micro:bitが接続されています！」というメッセージが表示されるので、説明を読みます（3ページあります）。
+
 ![テスト](images/sc11.png)
 
 ![テスト](images/sc12.png)
+
+14. 3ページ目の説明の右下の **(閉じる)** をクリックして、アクションの登録に移ります。
 
 ![テスト](images/sc13.png)
 
